@@ -55,6 +55,7 @@ public class Patterns2 {
 		}
 
 	}
+	
 	public static void pattern14(int n) {
 		for (int row = n; row >= 0; row--) {
 			for (int space = n; space > row; space--) {
